@@ -1,0 +1,818 @@
+ /* Code of Index page */
+ *
+ {
+	 margin:0px;
+	 padding:0px;
+ }
+ #outer
+ {
+	 height:1200px;
+	 width:1300px;
+	 border:1px solid;
+	 margin:0px auto;
+ }
+ /* Code of Registration Page */
+ #header
+ {
+	 height:50px;
+	 width:1300px;
+	 background:crimson;
+ }
+ #header p
+ {
+	 color:gold;
+	 font-size:27px;
+	 line-height:50px;
+	 font-weight:bold;
+	 font-family:Segoe Script;
+	 padding-left:25px;
+	 text-shadow:2px 3px 1px blue;
+	 padding:6px 30px;
+	 
+ }
+ #title
+ 
+{
+	 height:80px;
+	 width:1300px;
+	 background:gold;
+}
+#title ul
+	  {
+	     list-style:none;
+	  }
+#title marquee
+{
+	font-size:50px;
+	font-weight:bold;
+
+	line-height:100px;
+	color:crimson;
+	text-shadow:2px 6px 2px orange;
+	font-family:Segoe Script;
+}
+      #menu
+	  {
+	     height:50px;	
+		 width:1300px;
+		 background:crimson;
+		 margin-top:-10px;
+	  }
+	  #menu ul
+	  {
+	     list-style:none;
+	  }
+	  #menu ul li
+	  {
+	     height:50px;
+		 width:175px;
+		 float:left;
+		 text-align:center;
+		 margin-right:8px;
+	  }
+	  #menu ul li a
+	   {
+	      text-decoration:none;
+		  font-size:25px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Comic Sans MS;
+		  color:gold;
+	   }
+	   #menu ul li a:hover
+	   {
+	      text-decoration:none;
+		  font-size:25px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Segoe Print;
+		  color:crimson;
+		  background:gold;
+		  display:block;
+	   }
+	   
+	  
+	  #mid
+	  {
+        height:500px;
+	    width:1300px;
+	    float:left; 
+	  }
+	  #mid1
+	  {
+		height:500px;
+	    width:450px;
+	    background:gold;
+		border:2px solid crimson;
+		float:left; 
+	  }
+	   #mid1a
+		 {
+			 height:38px;
+	         width:1300px;
+	    
+		 }
+		 #mid1a i
+	     {
+		  
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+	  }
+	     #mid1a li
+		  {
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+		 }
+		
+		 #mid1b
+		 {
+			 height:40px;
+	         width:450px;
+	         background:crimson;
+		 }
+		  #mid1b i
+	  {
+		  
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:gold;
+	  }
+	     #mid1b li
+		  {
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+		 }
+		
+		
+		 #mid1c
+		 {
+			 height:480px;
+	         width:450px;
+	     }
+	  #mid1c ul
+	     {
+		  
+		  font-size:22px;
+		  line-height:50px;
+		  
+		 }
+	     #mid1c li
+		  {
+		  font-size:22px;
+		  line-height:50px;
+		  font-weight:bold;
+		  text-align:center;
+		  font-family:Script;
+		  color:crimson;
+		 }
+		
+		 
+	  #mid2
+	  {
+        height:500px;
+	    width:850px;
+	    background:gold;
+        float:left; 
+	  }
+	  #footer
+	   {
+	    height:40px;
+		width:1300px;
+		
+		
+	
+	
+	   }
+	   #foot1
+	   {
+	     height:40px;
+		 width:650px;
+		 float:left;
+		 background:crimson;
+		 //margin-top:20px;
+	   }
+	    #foot1 p
+		{
+		   font-size:25px;
+           font-family:Comic Sans MS;
+		   font-weight:bold;
+           margin-top:-3px;	
+           color:gold;	
+		   padding-left:10px;
+		}
+	   #foot2{
+	     height:40px;
+		 width:650px;
+		 float:left;
+		 background:crimson;
+	   }
+	   #foot2 p
+		{
+		   font-size:25px;
+           font-family:Comic Sans MS;
+		   font-weight:bold;
+           margin-top:-3px;	
+           color:gold;		   
+		}
+		
+		/*Code for about page*/
+		#slideabt
+		{
+		height:480px;
+		 width:1300px;
+		 background:white;
+		}
+		#slide1
+	  {
+		  height:480px;
+		  width:400px;
+		  background:white;
+		  float:left;
+	  }
+	   #slide1 p
+	  {
+		  font-size:30px;
+		  color:crimson;
+		  font-family:Script;
+	  }
+	  #slide1 i
+	  {
+		  font-size:25px;
+		  color:purple;
+		  font-family:Script;
+	  }
+	 
+	  #slide2
+	  {
+		  height:480px;
+		  width:900px;
+		  background:white;
+		  float:left;
+	  }
+	  
+	    #midabt
+		{
+			height:500px;
+			width:1300px;
+		}
+	    #midabt1
+		{
+			height:250px;
+			width:1300px;
+			background:crimson;
+		}
+		#midabt1a
+		{
+			height:250px;
+			width:400px;
+			background:white;
+			float:left;
+		}
+		#midabt1b
+		{
+			height:250px;
+			width:900px;
+			background:white;
+			border:1px solid;
+			float:left;
+		}
+		 #midabt1b p
+	  {
+		  font-size:30px;
+		  color:purple;
+		  font-family:Script;
+	  }
+	  #midabt1b i
+	  {
+		  font-size:25px;
+		  color:crimson;
+		  font-family:Script;
+	  }
+	  
+	    #midabt2
+		{
+			height:250px;
+			width:1300px;
+			background:gold;
+		}
+	   #midabt2a
+		{
+			height:250px;
+			width:900px;
+			background:white;
+			border:1px solid;
+			float:left;
+		}
+		#midabt2a p
+	  {
+		  font-size:30px;
+		  color:crimson;
+		  font-family:Script;
+	  }
+	  #midabt2a i
+	  {
+		  font-size:25px;
+		  color:purple;
+		  font-family:Script;
+	  }
+		#midabt2b
+		{
+			height:250px;
+			width:400px;
+			background:white;
+			float:left;
+		}
+		
+	/*Code for service*/
+	#slideserve
+	{
+		height:980px;
+		width:1300px;
+		background:gold;
+	}
+	#slideserve1
+	{
+		height:320px;
+		width:1300px;
+		background:white;
+	}
+	#g1
+	{
+		height:320px;
+		width:380px;
+		float:left;
+	}
+	#g2
+	{
+		height:320px;
+		width:540px;
+		float:left;
+	}
+	#g2 h3
+	  {
+		  font-size:30px;
+		  color:purple;
+		  font-family:Script;
+		  
+	  }
+	  #g2 p
+	  {
+		  font-size:23px;
+		  color:crimson;
+		  font-family:Script;
+	  }
+	#g2 i
+	  {
+		  font-size:22px;
+		  color:crimson;
+		  font-family:Script;
+		 
+	  }
+	#g3
+	{
+		height:320px;
+		width:380px;
+		float:left;
+	}
+	
+	#slideserve2
+	{
+		height:340px;
+		width:1300px;
+		background:white;
+	}
+	#g4
+	{
+		height:340px;
+		width:380px;
+		float:left;
+	}
+	#g4 p
+	  {
+		  font-size:30px;
+		  color:purple;
+		  font-family:Script;
+	  }
+     #g4 i
+	  {
+		  font-size:25px;
+		  color:crimson;
+		  font-family:Script;
+		 
+	  }
+
+	#g5
+	{
+		height:340px;
+		width:540px;
+		float:left;
+	}
+	#g6
+	{
+		height:340px;
+		width:380px;
+		float:left;
+	}
+	 #g6 p
+	  {
+		  font-size:30px;
+		  color:purple;
+		  font-family:Script;
+	  }
+    #g6 i
+	  {
+		  font-size:25px;
+		  color:crimson;
+		  font-family:Script;
+		 
+	  }
+	#slideserve3
+	{
+		height:320px;
+		width:1300px;
+		background:white;
+	}
+	#g7
+	{
+		height:320px;
+		width:380px;
+		float:left;
+	}
+	#g8
+	{
+		height:320px;
+		width:540px;
+		float:left;
+	}
+	#g8 p
+	  {
+		  font-size:30px;
+		  color:purple;
+		  font-family:Segoe Script;
+	  }
+	  #g8 i
+	  {
+		  font-size:25px;
+		  color:crimson;
+		  font-family: Script;
+		 
+	  }
+	#g9
+	{
+		height:320px;
+		width:380px;
+		float:left;
+	}
+	/* Code for gallery*/
+	#midgallery
+	{
+		height:980px;
+		width:1300px;
+		background:white;
+	}
+	#midgallery1
+	{
+		height:980px;
+		width:500px;
+		float:left;
+	
+	}
+      #midgallery1a
+	{
+		height:488px;
+		width:500px;
+		background:white;
+		border-radius:40%;
+		padding:3px;
+	}
+	#midgallery1a img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery1a img:hover
+	{
+		height:350px;
+		width:350px;
+		border-radius:50%;
+		
+	}
+    #midgallery1b
+	{
+		height:488px;
+		width:500px;
+		background:white;
+		border-radius:40%;
+		padding:2px;
+	}
+	#midgallery1b img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery1b img:hover
+	{
+		height:350px;
+		width:350px;
+		border-radius:50%;
+		
+	}
+    
+	#midgallery2
+	{
+		height:980px;
+		width:300px;
+		background:white;
+		float:left;
+	}
+	#midgallery2a
+	{
+		height:350px;
+		width:300px;
+		background:white;
+	}
+	#midgallery2a img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery2a img:hover
+	{
+		height:250px;
+		width:250px;
+		border-radius:50%;
+		
+	}
+	#midgallery2b
+	{
+		height:300px;
+		width:300px;
+		//background:red;
+		border-radius:50%;
+		padding:-12px;
+		
+	}
+	#midgallery2b img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery2b img:hover
+	{
+		height:250px;
+		width:250px;
+		border-radius:50%;
+		
+	}
+	
+	#midgallery2c
+	{
+		height:350px;
+		width:400px;
+		background:white;
+	}
+	#midgallery2c img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery2c img:hover
+	{
+		height:250px;
+		width:250px;
+		border-radius:50%;
+		
+	}
+	#midgallery3
+	{
+		height:980px;
+		width:500px;
+		background:white;
+		float:left;
+	}
+	 #midgallery3a
+	{
+		height:488px;
+		width:500px;
+		background:white;
+		border-radius:40%;
+		padding:3px;
+	}
+	#midgallery3a img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery3a img:hover
+	{
+		height:350px;
+		width:350px;
+		border-radius:50%;
+		
+	}
+    #midgallery3b
+	{
+		height:488px;
+		width:500px;
+		background:white;
+		border-radius:40%;
+		padding:2px;
+	}
+	#midgallery3b img
+	{
+		transition:width 5s,height 5s,border-radius 5s;
+		
+	}
+	#midgallery3b img:hover
+	{
+		height:350px;
+		width:350px;
+		border-radius:50%;
+		
+	}
+	/*Code for contact us page*/
+	#slidercont
+	{
+		height:480px;
+		width:1300px;
+	}
+	#slidecont1
+	{
+		height:480px;
+		width:780px;
+		float:left;
+	}
+	#slidecont2
+	{
+		height:480px;
+		width:520px;
+		background:gold;
+		float:left;
+	}
+	
+	#midcont
+	  {
+        height:500px;
+	    width:1300px;
+	    float:left; 
+	  }
+	  #midcont1
+	  {
+		height:500px;
+	    width:650px;
+	    background:gold;
+		border:2px solid crimson;
+		float:left; 
+	  }
+	   #midcont1a
+		 {
+			 height:38px;
+	         width:650px;
+	    
+		 }
+		 #midcont1a i
+	     {
+		  
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+	  }
+	     #midcont1a li
+		  {
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+		 }
+		
+		 #midcont1b
+		 {
+			 height:40px;
+	         width:650px;
+	         background:crimson;
+		 }
+		  #midcont1b i
+	  {
+		  
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:gold;
+	  }
+	     #midcont1b li
+		  {
+		  font-size:30px;
+		  line-height:50px;
+		  font-weight:bold;
+		  font-family:Script;
+		  color:crimson;
+		 }
+		
+		
+		 #midcont1c
+		 {
+			 height:480px;
+	         width:650px;
+	     }
+	     #midcont1c table
+	     {
+		  
+		  font-size:22px;
+		  line-height:50px;
+		  
+		 }
+	     #midcont1c table td
+		  {
+		  font-size:25px;
+		  line-height:50px;
+		  font-weight:bold;
+		  text-align:left;
+		  font-family:Script;
+		  color:maroon;
+		  text-shadow:1px 2px 2px red;
+		 }
+		
+		 
+	  #midcont2
+	  {
+        height:500px;
+	    width:650px;
+	    background:skin;
+		border:50px solid forestgreen;
+		float:left; 
+	  }
+	  #midcont2 table
+	  {
+		  
+		  font-size:22px;
+		  line-height:40px;
+		  
+	  }
+	  #midcont2 table td
+		  {
+		  font-size:25px;
+		  line-height:40px;
+		  font-weight:bold;
+		  text-align:center;
+		  font-family:Script;
+		  color:lime;
+		  padding-left:20px;
+		 }
+		 
+		 /* Code for registration page*/
+	  #slidereg
+	  {
+	    height:480px;
+		width:1300px;
+		background:red;
+	  }
+	  #slidereg1
+	  {
+	    height:480px;
+		width:650px;
+		background:yellow;
+		float:left;
+	  }
+	  #slidereg2
+	  {
+	    height:480px;
+		width:650px;
+		background:green;
+		float:left;
+	  } 
+	  /* code of login page*/
+  #slidlog
+	  {
+	    height:480px;
+		width:1300px;
+		background:red;
+	  }
+	  #slidlog1
+	  {
+	    height:480px;
+		width:650px;
+		background:yellow;
+		float:left;
+	  }	  
+	  #slidlog2
+	  {
+	    height:480px;
+		width:650px;
+		background:gold;
+		float:left;
+	  }
